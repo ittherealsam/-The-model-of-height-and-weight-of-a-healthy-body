@@ -1,4 +1,3 @@
-# -The-model-of-height-and-weight-of-a-healthy-body
 
 # -The-model-of-height-and-weight-of-a-healthy-body
 I made a function that shows The model of height and weight of a healthy body.
